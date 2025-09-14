@@ -19,25 +19,16 @@
 	margin-left: 250px;
 }
 
-.fifth .content h4 {
+.fifth .content h3 {
 	color: #FFFFFF;
-	font-family: "M PLUS Rounded 1c", sans-serif;
-	font-weight: 800;
-	font-size: 32px;
 }
 
-.fifth .content h5 {
+.fifth .content h4 {
 	color: #FFFFFF;
-	font-family: "M PLUS Rounded 1c", sans-serif;
-	font-weight: 800;
-	font-size: 26px;
 }
 
 .fifth .content p {
 	color: #FFFFFF;
-	font-family: "M PLUS Rounded 1c", sans-serif;
-	font-weight: 400;
-	font-size: 18px;
 }
 
 .fifth .fruit {

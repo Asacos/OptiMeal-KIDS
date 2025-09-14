@@ -16,9 +16,6 @@
 
 .seventh form h1 {
 	color: #FFFFFF;
-	font-family: "M PLUS Rounded 1c", sans-serif;
-	font-weight: 800;
-	font-size: 56px;
 }
 
 .seventh form input {
@@ -43,9 +40,6 @@
 
 .seventh footer h1 {
 	color: #FFFFFF;
-	font-family: "M PLUS Rounded 1c", sans-serif;
-	font-weight: 400;
-	font-size: 56px;
 	border-bottom: 5px solid #FFFFFF;
 }
 
@@ -65,16 +59,10 @@
 
 .seventh .content h5 {
 	color: #FFFFFF;
-	font-family: "M PLUS Rounded 1c", sans-serif;
-	font-weight: 800;
-	font-size: 18px;
 }
 
 .seventh .content p {
 	color: #FFFFFF;
-	font-family: "M PLUS Rounded 1c", sans-serif;
-	font-weight: 400;
-	font-size: 18px;
 }
 
 .seventh .content img {

@@ -29,26 +29,22 @@
 	margin-top: 450px;
 }
 
+.sixth .content {
+	margin-left: -150px;
+	width: 500px;
+}
+
 .sixth .content h2 {
 	color: #D07CC6;
-	font-family: "M PLUS Rounded 1c", sans-serif;
-	font-weight: 800;
-	font-size: 52px;
 }
 
 .sixth .content p {
 	color: #D07CC6;
-	font-family: "M PLUS Rounded 1c", sans-serif;
-	font-weight: 400;
-	font-size: 18px;
 	margin-top: 32px;
 }
 
 .sixth .content h5 {
 	color: #D07CC6;
-	font-family: "M PLUS Rounded 1c", sans-serif;
-	font-weight: 900;
-	font-size: 18px;
 }
 
 .sixth .content .detmir {

@@ -32,6 +32,7 @@
 	height: 709px;
 	width: 634px;
 	border-radius: 0 100px 100px 0;
+	position: relative;
 }
 
 .fourth .text .content {
@@ -39,11 +40,8 @@
 	width: 503px;
 }
 
-.fourth .text h1 {
+.fourth .text h2 {
 	color: #FF5F4E;
-	font-family: "M PLUS Rounded 1c", sans-serif;
-	font-weight: 800;
-	font-size: 52px;
 	margin-top: 57px;
 }
 
@@ -53,27 +51,35 @@
 
 .fourth .text .desc {
 	color: #D07CC6;
+	text-decoration: none;
 	font-family: "M PLUS Rounded 1c", sans-serif;
 	font-weight: 800;
 	font-size: 24px;
 	margin-top: 7px;
+	cursor: pointer;
 }
 
 .fourth .text .props {
 	color: #FF5F4E;
+	text-decoration: underline;
 	font-family: "M PLUS Rounded 1c", sans-serif;
 	font-weight: 800;
 	font-size: 24px;
 	margin-top: 7px;
 	margin-left: 50px;
-	text-decoration: underline;
 	cursor: pointer;
+}
+
+#props-info {
+	display: none;
 }
 
 .fourth .text p {
 	color: #D07CC6;
-	font-family: "M PLUS Rounded 1c", sans-serif;
-	font-size: 18px;
+}
+
+.fourth .prop-info {
+	margin-top: 24px;
 }
 
 .fourth .text ul {
@@ -97,7 +103,8 @@
 .fourth .text .button {
 	width: 200px;
 	height: 60px;
-	margin-top: 147px;
+	position: absolute;
+	bottom: 80px;
 }
 
 .fourth .arrow {
