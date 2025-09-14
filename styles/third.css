@@ -1,0 +1,91 @@
+.third {
+	background-image: url("../images/third/background.png");
+	background-size: cover;
+	height: 1000px;
+}
+
+.third .line {
+	width: 100%;
+}
+
+.third .cloud {
+	width: 298px;
+	height: 139px;
+	margin-left: 569px;
+	display: block;
+}
+
+.third .banana {
+	width: 181px;
+	height: 277px;
+	margin-left: 700px;
+}
+
+.third .layer-2 {
+	display: flex;
+}
+
+.third .vitamin {
+	text-align: center;
+	color: #D07CC6;
+	font-family: "M PLUS Rounded 1c", sans-serif;
+	font-weight: 800;
+	font-size: 26px;
+	margin-top: -100px;
+}
+
+.third .vitamin-1 {
+	margin-left: 222px;
+}
+
+.third .group-1 {
+	width: 386px;
+	height: 452px;
+}
+
+.third .vitamin-1 h4 {
+	margin-top: -75px;
+}
+
+
+.third .group-2 {
+	width: 336px;
+	height: 436px;
+}
+
+.third .vitamin-2 h4 {
+	margin-left: -50px;
+}
+
+.third .vitamin-3 {
+	margin-left: -50px;
+}
+
+.third .group-3 {
+	width: 322px;
+	height: 395px;
+}
+
+.third .vitamin-3 h4 {
+	margin-top: -25px;
+}
+
+.third .vitamin-4 {
+	margin-left: -150px;
+}
+
+.third .group-4 {
+	width: 554px;
+	height: 457px;
+}
+
+.third .vitamin-4 h4 {
+	width: 213px;
+	margin-top: -75px;
+	margin-left: 175px;
+}
+
+.third .vitamin h4:hover{
+	cursor: pointer;
+	color: #FF5F4E;
+}

@@ -1,0 +1,89 @@
+.first {
+	background-image: url("../images/first/background.png");
+	background-size: cover;
+	margin-bottom: -50px;
+}
+
+.first header {
+	padding-left: 275px;
+	display: flex;
+}
+
+.first .logo {
+	width: 230px;
+	height: 120px;
+}
+
+.first nav {
+	margin-left: 126px;
+	margin-top: 40px;
+}
+
+.first nav a {
+	margin-right: 20px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-family: "M PLUS Rounded 1c", sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+}
+
+.first .links {
+	width: 210px;
+	height: 50px;
+	margin-top: 36px;
+	margin-left: 126px;
+}
+
+.first .cloud-left {
+	width: 514px;
+	height: 259px;
+	margin-top: -100px;
+}
+
+.first .cloud-right {
+	width: 726px;
+	height: 367px;
+	margin-top: -100px;
+	margin-left: 800px;
+}
+
+.first .fruits {
+	width: 1099px;
+	height:339px;
+	margin-left: 500px;
+	margin-top: -100px;
+}
+
+.first .info {
+	width: 520px;
+	margin-left: 275px;
+	margin-top: -550px;
+}
+
+.first .info h2 {
+	color: #FFFFFF;
+	font-family: "M PLUS Rounded 1c", sans-serif;
+	font-weight: 800;
+	font-size: 52px;
+}
+
+.first .info p {
+	margin-top: 13px;
+	color: #FFFFFF;
+	font-family: "M PLUS Rounded 1c", sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+}
+
+.first .info a img{
+	width: 200px;
+	height: 60px;
+	margin-top: 22px;
+	margin-left: 4px;
+}
+
+.first .line {
+	width: 100%;
+	margin-top: 250px;
+}

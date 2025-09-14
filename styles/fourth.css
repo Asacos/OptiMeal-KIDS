@@ -1,0 +1,116 @@
+.fourth {
+	background: #FFEBDA;
+	padding-top: 20px;
+	padding-bottom: 200px;
+}
+
+.fourth .container {
+	display: flex;
+	width: 1170px;
+	height: 709px;
+	margin-left: 175px;
+}
+
+.fourth .pics {
+	border-radius: 100px 0 0 100px;
+	background: #44D6FF;
+	width: 536px;
+}
+
+.fourth .cloud {
+	margin-left: 204px;
+}
+
+.fourth .vitamins {
+	width: 485px;
+	height: 580px;
+	margin-top: -225px;
+}
+
+.fourth .text {
+	background: #FFFFFF;
+	height: 709px;
+	width: 634px;
+	border-radius: 0 100px 100px 0;
+}
+
+.fourth .text .content {
+	margin-left: 68px;
+	width: 503px;
+}
+
+.fourth .text h1 {
+	color: #FF5F4E;
+	font-family: "M PLUS Rounded 1c", sans-serif;
+	font-weight: 800;
+	font-size: 52px;
+	margin-top: 57px;
+}
+
+.fourth .text .menu {
+	display: flex;
+}
+
+.fourth .text .desc {
+	color: #D07CC6;
+	font-family: "M PLUS Rounded 1c", sans-serif;
+	font-weight: 800;
+	font-size: 24px;
+	margin-top: 7px;
+}
+
+.fourth .text .props {
+	color: #FF5F4E;
+	font-family: "M PLUS Rounded 1c", sans-serif;
+	font-weight: 800;
+	font-size: 24px;
+	margin-top: 7px;
+	margin-left: 50px;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.fourth .text p {
+	color: #D07CC6;
+	font-family: "M PLUS Rounded 1c", sans-serif;
+	font-size: 18px;
+}
+
+.fourth .text ul {
+	margin-top: 35px;
+}
+
+.fourth .text li {
+	list-style-type: none;
+	color: #D07CC6;
+	font-family: "M PLUS Rounded 1c", sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+}
+
+.fourth .text li::before {
+	content: "✔";
+	color: #FF5F4E;
+	padding-right: 0.5em;
+}
+
+.fourth .text .button {
+	width: 200px;
+	height: 60px;
+	margin-top: 147px;
+}
+
+.fourth .arrow {
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	margin-top: -385px;
+}
+
+.fourth .arrow-left {
+	margin-left: 150px;
+}
+
+.fourth .arrow-right {
+	margin-left: 1305px;
+}
